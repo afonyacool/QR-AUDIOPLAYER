@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "988385891210",
+    "firebase_url": "https://evan-show.firebaseio.com",
+    "project_id": "evan-show",
+    "storage_bucket": "evan-show.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988385891210:android:c0fb006b3ea86e1ec1ae73",
+        "android_client_info": {
+          "package_name": "com.example.basics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988385891210-ttepffe6buomgn3tmdavg5d8sd9goki6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.basics",
+            "certificate_hash": "5debb5582c34fb86f799dc95e52e0e08dfe276d5"
+          }
+        },
+        {
+          "client_id": "988385891210-nmg3jhoqkcpk4gmneevlot950edschd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiEuPXLtTxqNBGwKYtJdjyd-atqZ10JeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988385891210-nmg3jhoqkcpk4gmneevlot950edschd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
